@@ -1,12 +1,5 @@
 #TITLE OF PROJECT: Smart Gardening System
 
-#Group Members: 1) Fadhluddin bin Sahlan (1817445)
-#		2) Faris Hamidi bin Mohammad Nizam (1813951)
-#		3) Muhammad Zulhafizal bin Misrat (1815381)
-#		4) Muhammad Hazim bin Mir Munir (1812911)
-
-#Section: 2
-
 .data
 #LABEL FOR REGISTER
 welcomeMsg: 	.asciiz "\n~~~WELCOME T0 THE SMART GARDENING SYSTEM~~~\n"
